@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Marwan</h1>
-<h3 align="center">A passionate frontend/Full-Stack developer The Netherlands</h3>
+<h3 align="center">A passionate Frontend/Full-Stack developer from The Netherlands</h3>
 
 - 👨‍💻 All of my projects are available at [marwantech.com](marwantech.com)
 
