@@ -1,5 +1,7 @@
 # 💫About Me :
-Various Web Apps
+👋 Hi, I’m @MarwanKhalife
+👀 I’m interested in Tech, Computers, Gadgets, Operating Systems, Coding/Programming and life in general from a health and mindset point of view as well.
+💞️ I’m looking to collaborate on Building webpages and webapps 
 
 ## 🌐Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/marwan-a-623426193/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/@MHKonTech) 
