@@ -1,12 +1,12 @@
 <div align="center">
 
 # 💫 About Me :
-- 👋 Hi, I’m @MarwanKhalife
-- 👀 I’m interested in Tech, Computers, Gadgets, Operating Systems, Coding/Programming and life in general from a health and mindset point of view as well.
+👋 Hi, I’m @MarwanKhalife
+👀 I’m interested in Tech, Computers, Gadgets, Operating Systems, Coding/Programming and life in general from a health and mindset point of view as well.
 
-- 💞️ I’m looking to collaborate on Building webpages and webapps 
+💞️ I’m looking to collaborate on Building webpages and webapps 
 
-- 📝 I regularly write articles on [https://hashnode.com/@MarwanKhalife](https://hashnode.com/@MarwanKhalife)
+📝 I regularly write articles on [https://hashnode.com/@MarwanKhalife](https://hashnode.com/@MarwanKhalife)
 
 ## 🌐 You can find on
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/marwan-a-623426193/) 
