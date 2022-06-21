@@ -1,9 +1,9 @@
 <div align="center">
 
 # 💫 About Me :
-👋 Hi, I’m @MarwanKhalife
+## 👋 Hi, I’m @MarwanKhalife
   
-👀 I’m interested in Tech, Computers, Gadgets, Operating Systems, Coding/Programming and life in general from a health and mindset point of view as well.
+#### 👀 I’m interested in Tech, Computers, Gadgets, Operating Systems, Coding/Programming and life in general from a health and mindset point of view as well.
 
 💞️ I’m looking to collaborate on Building webpages and webapps 
 
