@@ -5,9 +5,9 @@
   
 #### 👀 I’m interested in Tech, Computers, Gadgets, Operating Systems, Coding/Programming and life in general from a health and mindset point of view as well.
 
-💞️ I’m looking to collaborate on Building webpages and webapps 
+#### 💞️ I’m looking to collaborate on Building webpages and webapps 
 
-📝 I regularly write articles on [https://hashnode.com/@MarwanKhalife](https://hashnode.com/@MarwanKhalife)
+#### 📝 I regularly write articles on [https://hashnode.com/@MarwanKhalife](https://hashnode.com/@MarwanKhalife)
 
 ## 🌐 You can find on
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/marwan-a-623426193/) 
@@ -23,7 +23,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=MarwanKhalife&theme=buefy&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 
-### ✍️Random Dev Quote
+## ✍️Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 
