@@ -1,5 +1,8 @@
+ <img src="images/MarwanKhalifeBanner-animated_AdobeExpress.gif" width="100%" alt="Hero Banner"/>
+
 <div align="center">
 
+  
 # 💫 About Me  < / >
 ### 👋 Hi there and ThnQ for visiting, I’m Marwan Khalife
   
