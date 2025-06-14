@@ -8,7 +8,7 @@
   
 #### 👀 I’m interested in Tech, Computers, Gadgets, Operating Systems, Coding/Programming and life in general from a health and mindset point of view as well.
 
-#### 💞️ I’m looking to collaborate on Building webpages and webapps 
+#### 💞️ I’m always building something, some of these projects might even get completed one day. Don't hesitate to reach out to collaborate!
 
 #### 📝 I regularly write articles on [https://hashnode.com/@MarwanKhalife](https://hashnode.com/@MarwanKhalife)
 
